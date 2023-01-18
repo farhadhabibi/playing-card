@@ -1,0 +1,25 @@
+.Deck-title {
+    color: white;
+    font-family: bold;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+.subtitle {
+    font-size: 20px;
+}
+.Deck-btn {
+    background: none;
+    padding: 10px;
+    color: purple;
+    outline: none;
+    border: 1px solid purple;
+    cursor: pointer;
+    font: inherit;
+    font-size: 15px;
+    transition: 0.7s;
+}
+.Deck-btn:hover {
+    color: white;
+    box-shadow: inset 0px 0px 2em purple
+    
+}
